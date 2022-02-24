@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/LinkedListFinal/main.cpp
+iostream
+-
+string
+-
+tlist.h
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tlist.h
+
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tlist.h
+iostream
+-
+utility
+-
+tnode.h
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tnode.h
+tlist.hpp
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tlist.hpp
+
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tlist.hpp
+
+C:/Users/Peyton/CLionProjects/LinkedListFinal/tnode.h
+utility
+-
+
